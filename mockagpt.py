@@ -5,8 +5,9 @@ import csv
 
 # constants
 csv_file = "response.csv"
-number_of_rows = 3
-columns = ["Movie Name", "Movie Description", "Movie Genre"]
+model = "gpt-4-turbo-preview"
+number_of_rows = 50
+columns = ["Movie ID", "Movie Name", "Movie Description", "Movie Genre"]
 
 # loads .env file, OpenAI() by defaults checks for "OPENAI_API_KEY"
 load_dotenv()
@@ -15,7 +16,7 @@ client = OpenAI()
 # gpt-4-turbo-preview currently points to gpt-4-0125-preview as of 2024-02-03, and it *probably* has a maximum output of 4,096 tokens
 # output as json so we can parse to csv for mysql workbench
 completion = client.chat.completions.create(
-  model = "gpt-4-turbo-preview",
+  model = f"{model}",
   messages = [
       {"role": "system", "content": """
         You are a software developer's assistant helping to generate test data to be imported to a database. 
@@ -25,6 +26,7 @@ completion = client.chat.completions.create(
         If either number of rows or list of columns is not provided, ask for it. 
         Be creative with your answers, aim to be fictional and try to avoid real world references. 
         If the column is a category like Movie Genre, you can list multiple categories.
+        If the column is an ID, it must match the row number (increases incrementally, starts from 1 -- e.g. 1, 2, 3).
       """},
       {"role": "user", "content": f"Generate {number_of_rows} rows for the following columns: {columns}"}
       ],

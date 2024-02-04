@@ -29,9 +29,10 @@ If recently topped-up, recreate the API key
 
 1. Turn into a site: 
    1. Password protect for cost reasons
-   2. 2 Inputs: 
-      1. Row number
-      2. List of columns
+   2. 3 Inputs: 
+      1. A model dropdown (at runtime, do a GET /models, list all gpt-*)
+      2. Row number
+      3. List of columns
    3. Show progress bar
    4. Downloads CSV when done
    5. Host the site in rpi, configure reverse proxy
