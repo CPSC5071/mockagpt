@@ -6,7 +6,7 @@ import csv
 # constants
 csv_file = "response.csv"
 model = "gpt-4-turbo-preview"
-number_of_rows = 50
+number_of_rows = 40
 columns = ["Movie ID", "Movie Name", "Movie Description", "Movie Genre"]
 
 # loads .env file, OpenAI() by defaults checks for "OPENAI_API_KEY"
@@ -20,17 +20,18 @@ completion = client.chat.completions.create(
   messages = [
       {"role": "system", "content": """
         You are a software developer's assistant helping to generate test data to be imported to a database. 
-        The user must provide 2 things: number of rows and the list of columns.
-        Your response must be provided in JSON format and must not include any other text.
-        Each key in the response is the column name, and they must all be grouped under a single parent key called "response".
-        If either number of rows or list of columns is not provided, ask for it. 
-        Be creative with your answers, aim to be fictional and try to avoid real world references. 
-        If the column is a category like Movie Genre, you can list multiple categories.
-        If the column is an ID, it must match the row number (increases incrementally, starts from 1 -- e.g. 1, 2, 3).
+        You will be provided with 2 things: number of rows and the list of columns.
+        Your response must be provided in JSON format where each column name is a key.
+        All keys must be grouped under a single parent key called "response".
+        Be creative and really vary your responses, aim to be fictional and try to avoid real world references. 
+        If the column is a category like Movie Genre, you can list multiple categories -- try to vary the amount of categories in the list.
+        If the column is an ID, it must increase incrementally starting from 1 -- e.g. 1, 2, 3, 4.
       """},
       {"role": "user", "content": f"Generate {number_of_rows} rows for the following columns: {columns}"}
       ],
-  response_format = {"type": "json_object"}
+  response_format = {"type": "json_object"},
+  presence_penalty = 0.2, # promotes variety, as opposed to frequency_penalty which reduces repetition and tends to cause issues with formatting, default = 0
+  temperature = 1.2 # lower values -> more deterministic, higher values -> more random, default = 1
 )
 
 # parse the response and save as csv for importing to mysql workbench
