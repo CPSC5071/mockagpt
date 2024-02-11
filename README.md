@@ -37,8 +37,8 @@ If recently topped-up, recreate the API key
    4. Downloads CSV when done
    5. Host the site in rpi, configure reverse proxy
 
-2. If large number of CSV, batch the calls to OpenAI then combine results at the end 
+2. ~~if large number of CSV, batch the calls to OpenAI then combine results at the end~~
    1. At the site, if batching, progress bar increases incrementally (e.g. 5 batches: 0% -> 20% -> 40% etc)
-   2. 40 seems to be the max? maybe batch every 20 rows
+   2. ~~40 seems to be the max? maybe batch every 20 rows~~
    
 3. STRETCH GOAL: Allow uploading MySQL schemas and generate full e2e test data
