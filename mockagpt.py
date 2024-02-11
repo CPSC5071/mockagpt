@@ -33,10 +33,10 @@ def callChatGpt(client, model, num_rows, columns, presence_penalty, temperature)
                           You will be provided with 2 things: number of rows and the list of columns.
                           Your response must be provided in JSON format where each column name is a key.
                           All keys must be grouped under a single parent key called "response".
-                          Be creative and really vary your responses, aim to be fictional and try to avoid real world references. 
+                          Be creative and really vary your responses, aim to be fictional and try to avoid real world references (parodies are okay). 
                           If the column is a category like Movie Genre, you can list multiple categories in the format of ['category 1', 'category 2', 'category 3', and so on] -- try to vary the amount of categories in the list.
                           If the column is an ID, it must increase incrementally starting from 1 -- e.g. 1, 2, 3, 4.
-                          If the column is a date, it should be in yyyy-mm-dd format""",
+                          If the column is a date, it should be in yyyy-mm-dd format. Year can range from 1950 to current year. Other column values must be appropriate for the year provided."""
             },
             {
                 "role": "user",

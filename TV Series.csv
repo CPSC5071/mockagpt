@@ -1,201 +1,301 @@
 ID,Name,Description,Genre,Release Date,Number of Episodes
-1,Galaxy Explorers,A crew of unlikely allies ventures through uncharted space to uncover ancient mysteries.,"['Sci-Fi', 'Adventure']",2021-02-15,22
-2,Mystic Quest,"In a realm where magic rules, young apprentices seek to master their powers and discover their destinies.","['Fantasy', 'Drama']",2020-05-10,18
-3,Undercover Spy,A deep undercover agent embarks on dangerous missions that test the limits of their training and loyalty.,"['Thriller', 'Drama']",2019-09-23,24
-4,The Culinary Chronicles,"A chef travels the world in search of forgotten recipes, blending cultures and ingredients to create culinary masterpieces.","['Cooking', 'Adventure', 'Documentary']",2022-03-12,12
-5,Distant Worlds,Historians and scientists team up to investigate the possibility of other civilizations across the universe.,"['Documentary', 'Sci-Fi']",2021-07-08,10
-6,Ghostly Encounters,Paranormal investigators probe the most haunted locations in search of answers to the supernatural.,"['Horror', 'Mystery']",2020-10-31,16
-7,The Capital,"Political intrigue and scandals abound in the heart of government, where every decision changes the fate of the nation.","['Drama', 'Thriller']",2019-11-22,20
-8,Animal Oddities,"Exploring the weirdest and most unique animals nature has to offer, from the depths of the oceans to the peaks of mountains.","['Documentary', 'Nature']",2022-01-15,8
-9,Lost Kingdoms,"Archaeologists uncover the secrets of ancient civilizations, revealing stories hidden for millennia.","['Documentary', 'History']",2021-04-20,14
-10,CyberSpace,"In the near future, a hacker group seeks to liberate humanity from the control of an all-seeing AI overlord.","['Sci-Fi', 'Thriller']",2023-01-01,25
-11,Galactic Odyssey,An epic space opera that follows the crew of the starship Horizon as they navigate through unknown galaxies.,"['Sci-Fi', 'Adventure']",2025-03-15,22
-12,Mystic Quest,A group of adventurers unravel the mysteries of ancient artifacts to save their world from a dark fate.,"['Fantasy', 'Action']",2026-05-20,18
-13,Chronicles of the Forgotten,"In a world where history has been erased, a band of survivors seeks to rediscover the truths of their past.","['Drama', 'Mystery']",2027-01-10,24
-14,Hack The Mainframe,"A cyber thriller about hackers fighting against a corrupt corporation, blending reality with the digital world.","['Thriller', 'Sci-Fi']",2024-07-22,15
-15,Parallel Worlds,"Two parallel worlds collide, causing characters to face their doppelgangers and challenge their own realities.","['Sci-Fi', 'Drama']",2023-09-29,20
-16,The Last Librarian,"In a dystopian future where books are banned, one librarian leads a revolution to bring knowledge back to the people.","['Action', 'Drama']",2028-02-14,12
-17,Echoes of the Past,A historical drama that brings to life the untold stories of ancient civilizations.,"['Historical', 'Drama']",2021-11-05,30
-18,Quantum Leap,"Follow the journey of a scientist who develops a machine allowing him to leap through time, altering the course of history.","['Sci-Fi', 'Adventure']",2022-04-19,25
-19,Underworld Chronicles,"The clandestine lives of mythical creatures hidden in plain sight among humans, and their struggle for survival.","['Fantasy', 'Thriller']",2029-06-23,18
-20,Rogue Planet,A rogue planet is on a collision course with Earth. Humanity's last hope rests with a group of misfit astronauts.,"['Sci-Fi', 'Action']",2023-12-12,10
-21,Galactic Questers,A team of intrepid explorers traverse the universe solving ancient mysteries.,"['Sci-Fi', 'Adventure']",2020-05-15,24
-22,Mystic Brew,"In a world where magic is in the coffee, a barista solves people's problems one cup at a time.","['Fantasy', 'Drama']",2019-03-12,12
-23,Detective Rex,"A retired detective gets back in the game with his unusually smart dog, Rex, to solve mysteries.","['Crime', 'Comedy']",2021-09-10,20
-24,Future's Past,"A scientist discovers a way to send messages to the past, altering the present in unexpected ways.","['Sci-Fi', 'Thriller']",2022-01-22,10
-25,Sword and Shadows,"In a realm torn by war, a group of heroes embarks on a quest to bring peace to their world.","['Fantasy', 'Adventure']",2018-08-06,30
-26,Laugh Out Loud,"A behind-the-scenes look at a fictional sketch comedy show, highlighting the antics that occur off-stage.",['Comedy'],2020-04-20,25
-27,Silent Whispers,"A psychic employs her abilities to help the lost souls of her city find peace, but not all is as it seems.","['Supernatural', 'Mystery']",2019-10-13,22
-28,Chef’s Table: Mars Edition,Future colonists on Mars create a competitive cooking show to decide the best chef on the red planet.,"['Cooking', 'Sci-Fi']",2023-02-17,15
-29,Courage Unseen,"A deep-dive into the lives of unsung heroes from various parts of the world, showcasing their bravery.","['Documentary', 'Biography']",2021-07-21,8
-30,Under the Starlight,Two astronomers find love in their search for a planet to call humanity's second home.,"['Romance', 'Sci-Fi']",2022-06-12,16
-31,Beyond the Clouds,"A journey through the lives of people connected by dreams and struggles, set against a backdrop of surreal landscapes.","['Fantasy', 'Adventure']",2023-01-12,12
-32,Silver Echoes,"In a future where sound is currency, a group of rebels fight against oppressive silence.","['Sci-Fi', 'Drama']",2023-04-25,8
-33,Whispers of the Past,"A historian discovers a way to listen to the whispers of history, unveiling secrets and altering the present.","['Historical', 'Thriller']",2022-09-16,10
-34,The Green Mirage,A dystopian future where Earth’s last green space is rumored to exist within a deadly labyrinth.,"['Drama', 'Sci-Fi', 'Mystery']",2023-02-09,6
-35,Circuit Breakers,A team of hackers uncovers a conspiracy that affects the digital and real world alike.,"['Sci-Fi', 'Action']",2023-05-30,9
-36,Sirens of Neptune,A space opera centered around a fleet chasing the myth of a paradise planet.,"['Space Opera', 'Adventure']",2022-11-20,13
-37,Chronicle of Shadows,Following a group of investigators as they unravel the paranormal activities within a cursed city.,"['Horror', 'Mystery']",2022-10-31,7
-38,Guardians of Lore,A band of heroes embarks on a quest to safeguard ancient knowledge from being destroyed.,"['Fantasy', 'Epic']",2023-03-15,10
-39,Empires of Sand,"In a world divided by desert, the oasis cities fight for control of water and life.","['Drama', 'Adventure']",2023-06-22,11
-40,Code of Silence,"A former spy uses her skills to expose corruption, but her past is catching up to her.","['Thriller', 'Action']",2022-12-05,8
-41,Galactic Quest,"A crew of interstellar explorers navigate uncharted galaxies, facing alien challenges at every turn.","['Sci-Fi', 'Adventure']",2021-05-10,50
-42,Mystic Brew,"In a world where magic is brewed into tea, a group of sorcerers uncover dark secrets in their society.","['Fantasy', 'Drama']",2020-11-23,32
-43,Tomorrow's Shadows,A time-traveling detective solves crimes by jumping into the shadows of the past and future.,"['Crime', 'Science Fiction']",2019-04-15,24
-44,Lost in Literature,"A librarian finds herself trapped inside famous novels, striving to find her way home.","['Adventure', 'Fantasy']",2018-09-05,16
-45,Undercover Kingdom,A spy infiltrates a mythical kingdom to prevent an interdimensional war.,"['Fantasy', 'Spy']",2022-01-20,40
-46,The Culinary Compass,"A globe-trotting chef explores rare cuisines around the world, uncovering secrets of traditional dishes.","['Cooking', 'Travel', 'Documentary']",2023-03-12,22
-47,Cyber Streets,"In a future where the virtual and real worlds collide, a group of hackers fights for freedom.","['Cyberpunk', 'Thriller']",2021-08-19,27
-48,Echoes of the Mind,Exploring the depths of psychology through the eyes of patients and therapists.,"['Drama', 'Psychological']",2019-12-01,30
-49,Revolt of the Robots,"In a future dominated by robots, a small human resistance fights for survival.","['Science Fiction', 'Action']",2020-07-07,36
-50,Chronicles of the Forgotten,An anthropologist unveils the history and secrets of civilizations that vanished without a trace.,"['Documentary', 'History']",2021-10-22,12
-51,Skyward Chronicles,A tale of five heroes embarking on a quest to save their world from eternal darkness.,"['Fantasy', 'Adventure']",2018-04-10,25
-52,Diner Dilemmas,A comedic series following the misadventures of a quirky staff at a downtown diner.,"['Comedy', 'Slice of Life']",2019-07-22,18
-53,Mysteries of Mars,Explorers uncover hidden secrets beneath the Martian surface.,"['Science Fiction', 'Mystery']",2021-11-15,12
-54,Pirate's Cove,A swashbuckling adventure among pirates in search for the world's most legendary treasure.,"['Adventure', 'Historical']",2017-03-05,36
-55,Under The City,Detective series exploring the dark and mysterious crimes in the city's underbelly.,"['Crime', 'Thriller']",2020-10-01,22
-56,Journey Through the Stars,"A family travels through the galaxy, discovering new planets and civilizations.","['Adventure', 'Family', 'Science Fiction']",2022-01-20,16
-57,Knight's Honor,Medieval drama about a fallen knight's quest to redeem himself and restore his honor.,"['Drama', 'Historical']",2018-09-09,24
-58,Silicon Dreams,Following the lives of tech entrepreneurs competing in Silicon Valley.,['Drama'],2019-11-29,30
-59,Elemental Masters,Wizards wielding the power of the elements fight to protect the Earth from an ancient threat.,"['Fantasy', 'Action']",2021-03-16,20
-60,Wanderlust Souls,A group of friends document their travels to the most remote and dangerous locales on the planet.,"['Documentary', 'Adventure']",2020-06-04,14
-61,Sky Whispers,"In a city where the sky changes colours, a group of strangers discover they share hidden powers.","['Fantasy', 'Drama']",2021-03-15,12
-62,Echoes Of The Past,A history professor uncovers secrets that connect his present to an ancient civilization.,"['Adventure', 'Mystery']",2019-11-22,24
-63,Orbiting Fear,Astronauts on a space station discover an approaching comet might be sentient.,"['Sci-Fi', 'Thriller']",2020-07-08,10
-64,Lakeside,A group of teenagers solve mysteries during their summer at a remote lake.,"['Comedy', 'Horror', 'Mystery']",2018-05-21,8
-65,Beyond The Realm,Follow the lives of individuals who navigate reality and the digital world where boundaries blur.,"['Drama', 'Sci-Fi']",2022-01-10,15
-66,Veiled Secrets,A private detective with a shadowy past is pulled into a conspiracy that goes deeper than she imagined.,"['Crime', 'Thriller']",2019-09-09,20
-67,Iron Shadows,"In a post-apocalyptic world, survivors battle rogue AI robots to reclaim Earth.","['Action', 'Sci-Fi']",2021-06-12,9
-68,Halfway Home,Five strangers realize they are living in a simulation and work together to find a way out.,"['Drama', 'Sci-Fi', 'Mystery']",2023-02-20,13
-69,Chronicle of the Forgotten,"A medieval village is cursed to be forgotten by history, and its inhabitants fight to ensure their survival.","['Fantasy', 'History']",2017-07-14,16
-70,Whispering Pines,"A small town copes with unusual, supernatural events while uncovering secrets that tie its ancestors to mystical lands.","['Drama', 'Fantasy', 'Mystery']",2020-10-31,22
-71,Spectral Chronicles,Follow the adventures of a group of fearless mages battling against the unseen magical forces.,"['Fantasy', 'Adventure', 'Action']",2021-03-15,24
-72,The Gadgeteer,"A genius inventor transforms his small town with astonishing gadgets, but his inventions come with unexpected consequences.","['Science Fiction', 'Comedy']",2020-11-22,18
-73,Underworld Spy Network,An international spy thriller that explores the depths of secret societies and their influence on global events.,"['Thriller', 'Drama', 'Spy']",2019-02-03,12
-74,Mars Colony: Zephyr,Humanity's first Mars colony fights for survival against harsh conditions and unknown mysteries on the red planet.,"['Science Fiction', 'Drama']",2022-06-18,20
-75,Chronicles of the Forgotten Kingdom,A lost princess discovers her heritage and leads a rebellion to reclaim her kingdom from dark forces.,"['Fantasy', 'Adventure']",2018-09-09,36
-76,The Great Inventors,Historical figures team up in an alternative timeline to solve grand mysteries with their inventions.,"['Historical', 'Science Fiction', 'Mystery']",2017-01-15,22
-77,Nebula Wanderers,A crew aboard a drifting spaceship encounter strange phenomena as they attempt to find their way back home.,"['Adventure', 'Science Fiction']",2023-04-10,10
-78,Echoes of Aetheria,Two warring nations on a fantastical continent use ancient magic and technology to battle for supremacy.,"['Fantasy', 'War', 'Drama']",2019-07-23,28
-79,The Culinary Con,"A world-renowned chef leads a double life as a sophisticated con artist, balancing between the high stakes of the criminal and culinary worlds.","['Drama', 'Crime', 'Comedy']",2021-12-05,15
-80,Last Hope Hospital,"In a world overrun by a mysterious pandemic, a group of doctors at Last Hope Hospital fight to save lives and find a cure.","['Medical Drama', 'Thriller']",2020-04-20,26
-81,Glimmer of the Void,A science fiction saga exploring the mysteries of an uncharted galaxy through the eyes of a rogue crew.,"['Science Fiction', 'Adventure']",2023-01-15,12
-82,The Chronicles of Eldoria,"A fantasy series set in the mythical kingdom of Eldoria, following the battle between light and darkness.","['Fantasy', 'Drama']",2023-03-22,24
-83,Quantum Detective,A detective with the ability to traverse parallel universes solves crimes that are linked across dimensions.,"['Crime', 'Science Fiction', 'Thriller']",2023-02-11,16
-84,Mystic Bakery,A heartwarming tale of a magical bakery that solves its visitors' problems with enchanted pastries.,"['Fantasy', 'Comedy']",2023-05-08,20
-85,Guardians of History,A team of time travelers works to correct the timeline from malicious alterations by unknown forces.,"['Adventure', 'Science Fiction', 'History']",2023-07-17,18
-86,Whispers Among Stars,An interstellar drama about the political intrigue and family secrets driving the fate of a galaxy.,"['Drama', 'Science Fiction']",2023-09-03,10
-87,Echoes of the Lost,"Survivors of a plane crash discover an ancient civilization in a remote jungle, unveiling mysteries old and new.","['Adventure', 'Mystery']",2023-04-14,14
-88,Fates Entwined,Two strangers linked by their dreams navigate their intertwined destines to prevent a looming disaster.,"['Drama', 'Romance', 'Fantasy']",2023-06-21,22
-89,CyberRealm,"In a dystopian future, a group of hackers fight against a totalitarian regime controlling the digital world.","['Action', 'Cyberpunk']",2023-08-05,25
-90,Arcane Investigations,"A detective agency specializes in the supernatural, tackling cases that baffle conventional law enforcement.","['Mystery', 'Fantasy', 'Thriller']",2023-10-12,15
-91,Chronicles of the Beyond,"A group of explorers traverse through unknown galaxies, uncovering ancient secrets and the mysteries of the universe.","['Sci-Fi', 'Adventure']",2021-02-15,22
-92,Eldritch Tales,"In the Gothic town of Ravenswood, residents must uncover the supernatural forces before it's too late.","['Horror', 'Mystery']",2020-10-31,13
-93,Quantum Realms,"A genius physicist unlocks the door to multiple realities, finding both wonders and dangers beyond imagination.","['Sci-Fi', 'Drama']",2022-05-20,10
-94,Knight's Oath,"In the high towers of Endore, knights and mages fight for the throne in a tale of betrayal and magic.","['Fantasy', 'Action']",2019-07-18,24
-95,Shadowed Paths,"A dark force grows in the underworld, and only a group of unlikely heroes can stop the impending doom.","['Adventure', 'Horror']",2023-01-04,18
-96,Mysteries Unbound,Detective Raylan solves impossible cases in a world where magic and technology intertwine.,"['Mystery', 'Sci-Fi']",2021-09-09,12
-97,Galactic Pioneers,A band of misunderstood misfits becomes humanity's last hope as they embark on a journey to save the universe.,"['Adventure', 'Comedy']",2022-11-11,16
-98,Sirens of the Sea,"After discovering a hidden underwater city, a group of scuba divers must protect its secrets from the surface world.","['Fantasy', 'Drama']",2020-03-20,14
-99,Winds of Fate,A historical drama following the lives of three families during a tumultuous period of change and revolution.,"['Drama', 'History']",2019-04-02,20
-100,Time's Echo,"A time-traveler revisits key moments in history, only to find each action has unexpected consequences in the future.","['Sci-Fi', 'Thriller']",2023-03-15,11
-101,Echoes of the Unknown,A band of adventurers unearths secrets from shadows in their quest across mystical lands.,"['Fantasy', 'Adventure', 'Mystery']",2022-03-15,26
-102,Starlight Voyages,"Follow a crew of space explorers as they traverse the cosmos, encountering new civilizations and the mysteries of the universe.","['Science Fiction', 'Adventure']",2021-11-05,12
-103,Mystic Manor,"In an ancient manor full of secrets, a group of young magic users learn about their powers and the history buried beneath their feet.","['Mystery', 'Fantasy']",2019-09-20,24
-104,Crimson Detectives,Two detectives with contrasting methods solve crimes in a city where the night holds more than just shadows.,"['Crime', 'Thriller', 'Drama']",2020-01-10,20
-105,Beyond the Horizon,"A group of explorers journey to uncharted territories on Earth, discovering new cultures and overcoming extreme challenges.","['Adventure', 'Documentary']",2023-04-21,10
-106,Arcane Chronicles,"Follows the intricate lives of mages in a high fantasy world as they navigate politics, power, and personal demons.","['Fantasy', 'Drama']",2018-07-02,32
-107,Silicon Dreams,A look at the lives of pioneering software engineers in a Silicon Valley startup during the tech boom.,"['Drama', 'Biography']",2020-05-09,18
-108,Rulers of the Sea,A historical drama about the power struggles and the rise and fall of empires in the ancient maritime world.,"['Historical', 'Drama', 'Adventure']",2022-06-12,15
-109,Ghosts of the Past,An anthology series where each season unravels a thrilling ghost story that spans across different eras.,"['Horror', 'Mystery']",2019-10-31,22
-110,The Velvet Underground,"In a world where music is magic, a group of young artists creates soul-stirring tunes while combating societal norms.","['Fantasy', 'Music', 'Drama']",2021-12-25,8
-111,Futurescape Chronicles,"In a world where technology interfaces with reality, a group of scientists uncovers the universal secrets.","['Sci-Fi', 'Drama']",2023-01-10,22
-112,The Last Historian,"After the fall of humanity, one man has the power to rewrite history, but at what cost?","['Adventure', 'Fantasy', 'Mystery']",2023-03-15,10
-113,RoboCompanions,"In 2045, robots are the new family members, and one family's robot changes their lives forever.","['Family', 'Sci-Fi']",2022-11-01,15
-114,Mystic Island,"A group of explorers find an island that doesn't exist on any map, laden with unsolved mysteries.","['Thriller', 'Mystery', 'Adventure']",2023-02-20,18
-115,Galactic Rangers,Intergalactic peacekeepers battle space pirates to keep the universe safe for all species.,"['Action', 'Sci-Fi']",2023-04-05,25
-116,Architects of Dreams,"Dream architects create perfect dreamscapes for their clients, but at the risk of getting lost forever.","['Drama', 'Sci-Fi']",2023-05-17,14
-117,Whispering Shadows,"A detective can communicate with the shadows to solve crimes, but she must contend with their demands.","['Mystery', 'Thriller', 'Supernatural']",2023-01-31,20
-118,Empires of Sand,"Set in an alternate universe, rival empires fight over the control of the magical sand that powers their civilizations.","['Fantasy', 'Action']",2022-09-09,30
-119,Clockwork Souls,"In a steampunk universe, a group of rebels uncovers a conspiracy that controls their city's fate.","['Steampunk', 'Drama']",2023-06-23,16
-120,Quantum Leaps,"Time travelers prevent catastrophes by making small, calculated changes in the past, risking everything.","['Sci-Fi', 'Thriller']",2023-07-14,12
-121,Star Whisperers,Following a group of astronauts as they decode mysterious messages from the cosmos.,"['Sci-Fi', 'Adventure']",2021-04-10,22
-122,The Baker Street Phantoms,"In Victorian London, a detective duo unravels supernatural crimes lurking in the city's foggy streets.","['Mystery', 'Horror', 'Historical']",2019-07-23,18
-123,Quantum Miracles,A brilliant physicist discovers a way to travel through time but learns that every miracle has its price.,"['Drama', 'Sci-Fi']",2020-11-15,24
-124,Guardians of the Relics,A band of misfits embarks on a quest to protect ancient artifacts from falling into the wrong hands.,"['Adventure', 'Fantasy']",2022-02-05,12
-125,Futurescape,"In a dystopian future, a group of rebels fights to restore freedom to humanity.","['Drama', 'Sci-Fi', 'Action']",2023-01-09,20
-126,Lost Realms,"Explorers discover new worlds that defy logic and science, challenging everything they know about reality.","['Fantasy', 'Adventure', 'Mystery']",2018-08-19,16
-127,CyberDawn,"In a world dominated by technology, a lone hacker uncovers a conspiracy that could control humanity's future.","['Sci-Fi', 'Thriller']",2020-05-27,14
-128,Eclipsed Hearts,Two lovers from rival planets must overcome the odds and bring peace to their warring worlds.,"['Romance', 'Sci-Fi', 'Drama']",2021-09-14,19
-129,The Cursed Crown,A young prince must navigate deadly palace intrigues to lift a curse that has plagued his kingdom for centuries.,"['Fantasy', 'Drama', 'Mystery']",2019-03-03,21
-130,Echoes of Tomorrow,Survivors of a global disaster must use forbidden technology to visit the past and avert the end of the world.,"['Sci-Fi', 'Adventure', 'Drama']",2022-06-21,25
-131,Galactic Wanderers,A group of explorers traverse the cosmos encountering alien civilizations and unraveling the mysteries of the universe.,"['Sci-Fi', 'Adventure']",2021-03-15,22
-132,Whispers in the Shadows,A Victorian-era detective uses unorthodox methods to solve mysteries involving supernatural forces.,"['Mystery', 'Horror', 'Historical']",2019-09-21,18
-133,Dystopian Dreams,"In a future where society has collapsed, small communities fight for survival and search for a new way of life.","['Drama', 'Sci-Fi']",2023-01-05,10
-134,Quantum Tales,An anthology series that explores different quantum realities and the strange phenomena within them.,"['Sci-Fi', 'Fantasy']",2020-11-11,16
-135,Secrets of the Silk Road,"A period drama that follows the lives of traders, travelers, and nomads along the Silk Road during its heyday.","['Historical', 'Adventure']",2018-07-30,24
-136,Echoes of the Lost,Survivors of a plane crash on a mysterious island uncover secrets and face moral dilemmas as they try to get home.,"['Drama', 'Mystery']",2017-04-17,48
-137,Beyond the Veil,A college student discovers she can travel between worlds and must navigate the dangers of multiple realities to save her friends.,"['Fantasy', 'Thriller']",2022-08-23,14
-138,Agents of Shadows,"An elite team of operatives uses time travel to prevent catastrophic events, while dealing with the moral implications of their actions.","['Action', 'Sci-Fi']",2021-05-19,20
-139,Crown of Thorns,"In a medieval world, a young prince must navigate court politics and ancient prophecies to reclaim his throne.","['Fantasy', 'Drama']",2019-03-03,26
-140,The Last Alchemist,"In a world where science and magic coexist, an alchemist undertakes a quest to discover the secrets of the universe.","['Fantasy', 'Adventure']",2022-12-12,12
-141,Galactic Quest,A team of explorers journey through wormholes in space to ensure the survival of humanity.,"['Sci-Fi', 'Adventure']",2021-09-10,50
-142,Mystic Falls,"In a town brimming with supernatural activity, a teenage girl discovers her own mystical heritage.","['Fantasy', 'Drama']",2020-03-15,75
-143,Chronicles of the Gifted,Individuals around the world discover they have extraordinary abilities and are being hunted.,"['Drama', 'Sci-Fi']",2022-06-22,20
-144,Architects of Destiny,An elite group of scholars and warriors fight to alter the path of their world's impending doom.,"['Fantasy', 'Action', 'Drama']",2019-11-10,60
-145,Virtual Horizons,Gamers trapped inside a virtual reality game must play their way to freedom or face everlasting entrapment.,"['Adventure', 'Sci-Fi']",2023-01-05,40
-146,Spectral City,A detective with the ability to communicate with spirits solves crimes in a city inhabited by the living and the dead.,"['Mystery', 'Supernatural']",2018-07-23,30
-147,Empires at War,"Two rival kingdoms battle for supremacy, while a hidden threat seeks to conquer them both.","['Action', 'Drama', 'History']",2021-12-12,100
-148,Blades of Glory,The greatest swordmasters from across the land compete in a tournament to find the true master.,"['Action', 'Fantasy']",2017-05-08,25
-149,The Lost Colony,Survivors of a space colony gone awry try to rebuild civilization on a distant planet.,"['Sci-Fi', 'Drama']",2019-08-19,45
-150,Witch of the West,A powerful witch uses her abilities to protect her land and people from dark forces.,"['Fantasy', 'Adventure']",2020-10-30,55
-151,Chronicles of the Beyond,Adventures and mysteries unfold in a universe where reality and fantasy collide.,"['Sci-Fi', 'Adventure', 'Mystery']",2021-03-15,45
-152,The Mirror's Edge,"A detective can see through time with a special mirror, solving crimes before they happen.","['Crime', 'Fantasy', 'Thriller']",2020-11-10,22
-153,Eldritch Tales,Occult mysteries and dark horrors in a town where the paranormal is normal.,"['Horror', 'Mystery', 'Drama']",2019-05-07,30
-154,Solar Voyagers,A crew of astronauts embarks on a perilous journey to explore the outer planets.,"['Sci-Fi', 'Adventure']",2023-01-22,12
-155,Heartwood,A magical forest is the setting for tales of ancient myths and nature's secrets.,"['Fantasy', 'Adventure', 'Family']",2018-07-16,40
-156,Suburban Mysteries,Everyday suburbia is the façade for the mysteries and dark secrets among neighbors.,"['Mystery', 'Thriller', 'Drama']",2017-09-20,50
-157,Imperial Intrigues,Intricate political machinations and personal betrayals in a powerful empire.,"['Drama', 'Historical', 'Thriller']",2018-02-03,36
-158,Neon Shadows,Cyberpunks and androids populate this tale of technology gone awry in a dystopian future.,"['Sci-Fi', 'Cyberpunk', 'Action']",2022-06-15,24
-159,Whispers of the Past,Time travelers attempt to correct the course of history in this thrilling narrative.,"['Sci-Fi', 'Historical', 'Drama']",2021-10-11,29
-160,Fae Bound,Two worlds collide when a human discovers the hidden realm of the Fae.,"['Fantasy', 'Romance', 'Adventure']",2020-12-05,33
-161,Stars Beyond,A group of intergalactic explorers discover new life and civilizations beyond the stars.,"['Sci-Fi', 'Adventure']",2023-01-15,12
-162,Mystic Tales,"In a world where magic and technology coexist, a young mage uncovers ancient secrets.","['Fantasy', 'Mystery']",2023-02-20,8
-163,Hearts United,A heartwarming story of a divided community brought together by the unlikeliest of heroes.,"['Drama', 'Romance']",2023-03-12,10
-164,Guardians of Lore,An elite group of historians protect ancient artifacts from being used for evil.,"['Adventure', 'Thriller']",2023-04-05,9
-165,Echoes of Tomorrow,Scientists uncover a time anomaly that could change the course of humanity.,"['Sci-Fi', 'Drama']",2023-05-16,11
-166,Under The Mask,A detective with a hidden identity fights crime in a city on the brink of chaos.,"['Crime', 'Mystery']",2023-06-24,7
-167,The Forgotten Kingdom,Five strangers find themselves in a mysterious land with no memory of how they arrived.,"['Fantasy', 'Adventure']",2023-07-29,13
-168,Silent Screams,Survivors of a global pandemic navigate a world where sound attracts deadly creatures.,"['Horror', 'Thriller']",2023-08-19,6
-169,Infinite Realms,"A portal to infinite worlds opens, presenting endless adventure and danger.","['Sci-Fi', 'Fantasy']",2023-09-09,10
-170,Chronicles of the Brave,A legendary warrior teaches a new generation to defend their land from emerging threats.,"['Action', 'Drama']",2023-10-03,12
-171,Skyward Chronicles,"In a world where the sky is dominated by colossal airships, a crew embarks on a journey filled with adventure and mystery.","['Fantasy', 'Adventure', 'Steampunk']",2021-05-14,12
-172,The Last Historian,"After discovering ancient technology, the last historian of a crumbling society must navigate political intrigue to protect knowledge.","['Science Fiction', 'Drama']",2019-11-22,8
-173,Garden of Echoes,"A grieving detective finds herself in a mysterious garden where every plant is tied to a soul from the past, unlocking untold stories.","['Fantasy', 'Mystery']",2020-03-07,10
-174,Parallel Lives,"Two parallel worlds collide, leading to unexpected friendships, love, and a fight for survival against a mutual threat.","['Science Fiction', 'Romance']",2023-01-15,15
-175,Shadow Siege,"In a realm of magic and politics, a group of shadowy assassins find themselves intertwined in plots that may overthrow kingdoms.","['Fantasy', 'Political Thriller']",2018-07-09,20
-176,Neon Ghosts,"In a neon-soaked city of the future, a haunted detective investigates crimes involving the supernatural and uncovers conspiracies.","['Cyberpunk', 'Horror', 'Mystery']",2022-04-18,13
-177,The Alchemist's Heir,A young alchemist undertakes a perilous journey to fulfill their destiny and uncover secrets that could change the world.,"['Fantasy', 'Adventure']",2021-09-10,16
-178,Beyond the Horizon,"Explorers in the future embark on missions to undiscovered planets, facing dangers and marveling at alien wonders.","['Science Fiction', 'Adventure']",2020-08-21,18
-179,Cipher Quest,A genius coder uncovers a digital mystery that thrusts her into the world of cyber espionage and secrets beyond imagination.,"['Thriller', 'Science Fiction']",2021-12-31,6
-180,Mystic Tides,"A coastal town is beset by mythical sea creatures, and a group of teenagers discovers their ancient lineage is the key to peace.","['Fantasy', 'Drama']",2019-06-05,14
-181,Gardens of Ligoria,"In a world dominated by mystical flora, a group of explorers seek the legendary Ligoria Gardens, facing untold dangers.","['Adventure', 'Fantasy']",2021-04-14,25
-182,The Echoes of Aurora,"A detective with the ability to communicate with the spirits solves crimes in Aurora, uncovering dark secrets of her own past.","['Mystery', 'Supernatural']",2019-07-22,40
-183,Chronicles of the Lost,Survivors of a plane crash on a mysterious island unravel the island's ancient secrets while fighting to stay alive.,"['Drama', 'Adventure']",2020-11-05,55
-184,Silent Galaxy,"A crew aboard the starship Horizon embarks on a perilous journey to explore unknown parts of the galaxy, discovering new forms of life and civilizations.","['Science Fiction', 'Thriller']",2023-01-15,45
-185,Knights of Eldoria,"In the fantasy realm of Eldoria, knights uphold justice and fight against the rise of dark sorcery that threatens the kingdom.","['Fantasy', 'Action']",2018-09-20,60
-186,Ciphered Truths,"A group of hackers uses their skills to expose corruption, but their latest target puts them in the crosshairs of a deadly conspiracy.","['Thriller', 'Cyberpunk']",2022-02-29,22
-187,The Unseen War,"Two parallel worlds collide, and unseen heroes fight a war that decides the fate of both universes.","['Action', 'Fantasy', 'Drama']",2017-05-18,35
-188,Deep Space Nine,"Amidst political unrest, the crew of Deep Space Nine station must navigate alliances and betrayal to maintain peace in the galaxy.","['Science Fiction', 'Drama']",2023-03-22,78
-189,Whispers of Teyuna,An anthropologist discovers the lost city of Teyuna but finds more than ancient relics—an entire civilization invisible to the outside world.,"['Adventure', 'Mystery']",2022-06-16,18
-190,Empires of Ash,"In a post-apocalyptic world, remnants of humanity battle over resources and land, striving to rebuild civilization from the ashes.","['Post-Apocalyptic', 'Drama']",2021-03-07,50
-191,Galactic Quest,"A crew of misfits travel through the unknown parts of the universe, discovering new planets and civilizations.","Sci-Fi, Adventure",2022-03-15,22
-192,Mystic Falls,"In a quiet town, a group of teenagers discovers they are descendants of a secret society of witches and wizards.","Fantasy, Drama",2021-10-05,18
-193,Futures Past,A time-traveler struggles to change the course of history while grappling with the consequences of his actions.,"Sci-Fi, Thriller",2023-01-20,12
-194,Underneath,"After a catastrophic event, survivors living in an underground city must find a way to the surface.","Adventure, Post-apocalyptic",2020-07-11,24
-195,Crimson Detective,A brilliant detective with a troubled past solves the most bewildering mysteries in the city.,"Mystery, Crime, Drama",2019-04-07,30
-196,Silver Thrones,"In a magical realm, various kingdoms vie for power, throne, and survival amidst myths and dragons.","Fantasy, Adventure",2018-09-23,15
-197,The Last Library,"In a future where books are banned, a group of rebels seeks to protect the last standing library.","Sci-Fi, Drama",2022-05-06,10
-198,Waves of Time,"A family discovers their antique clock can time travel, leading them on adventures through history.","Family, Sci-Fi",2021-08-19,20
-199,Empire of Dreams,Follow the rise and fall of a media mogul and his entertainment empire over several decades.,"Biographical, Drama",2020-02-14,25
-200,Mindwalkers,"Scientists develop technology to enter people's dreams, revealing secrets that help solve criminal investigations.","Thriller, Sci-Fi",2023-04-01,13
+1,Chronicles of the Unknown,Adventurers discover hidden worlds and unseen civilizations.,"['Adventure', 'Fantasy']",2001-04-16,120
+2,Echoes in the Dark,A detective with a troubled past solves paranormal cases.,"['Mystery', 'Thriller', 'Supernatural']",2005-10-23,85
+3,Solar Flares,A team of scientists tries to prevent catastrophic solar eruptions.,"['Science Fiction', 'Drama']",2010-03-14,60
+4,Winds of the Past,"A historian travels through time, attempting to correct the course of history.","['Historical', 'Adventure', 'Romance']",2015-09-29,48
+5,Mechanized,"In a dystopian future, humanity relies on giant robots for survival.","['Action', 'Science Fiction']",2018-07-18,75
+6,Underneath the Veil,A group of friends uncovers a supernatural mystery in their small town.,"['Mystery', 'Supernatural', 'Drama']",2003-11-03,100
+7,Galactic Outcasts,Space rebels fight against a tyrannical space federation.,"['Space Opera', 'Adventure']",1996-05-20,150
+8,The Last Library,Survivors of an apocalypse find the last remaining library and the secrets within.,"['Post-apocalyptic', 'Thriller']",2022-01-25,22
+9,Sector 9,"In a future where Earth is divided into sectors, one man uncovers a plot that could destroy them all.","['Science Fiction', 'Drama']",2017-04-12,66
+10,Dreamscape,Investigators delve into the mysteries of the human mind to solve crimes.,"['Psychological Thriller', 'Sci-Fi']",2019-08-09,32
+11,Galactic Adventures,A group of interstellar explorers discover new worlds and civilizations beyond the edges of known space.,"['Sci-Fi', 'Adventure']",2005-03-15,110
+12,Mysteries of Jane,"A detective with a troubled past solves complex cases in a futuristic city, uncovering her own mysteries along the way.","['Drama', 'Mystery', 'Sci-Fi']",2010-09-24,89
+13,The Last Kingdoms,"In a fantasy world of magic and dragons, rival kingdoms fight for control over the mystical lands.","['Fantasy', 'Adventure', 'Action']",2016-02-11,77
+14,Quantum Leap Through Time,A scientist discovers a way to leap through time but finds that changing the past has unexpected consequences.,"['Sci-Fi', 'Drama']",1998-07-21,45
+15,Undercover Agents,"Elite spies go on undercover missions around the world, facing danger and espionage at every turn.","['Action', 'Thriller', 'Crime']",2003-05-16,97
+16,Culinary Explorers,A celebrity chef and his team travel the globe to explore the origins of the world's most unique dishes.,"['Documentary', 'Cooking']",2014-11-09,52
+17,Echoes of the Past,A historian uncovers secrets from ancient ruins that challenge our understanding of history and humanity's place in the universe.,"['Documentary', 'History']",2019-01-18,28
+18,Robot Rebellion,"In a future where robots have become sentient, one robot starts a revolution for equal rights.","['Sci-Fi', 'Drama', 'Thriller']",2022-07-22,10
+19,The Garden of Time,A magical garden where time moves differently holds the key to solving global disasters but at a great personal cost to its visitors.,"['Fantasy', 'Drama', 'Mystery']",1965-04-08,150
+20,Pirate Chronicles,Follow the legendary tales of the most feared pirates across the seven seas and their quest for treasure.,"['Action', 'Adventure', 'History']",1984-06-26,73
+21,Journey Beyond,A tale of explorers journeying through unknown galaxies.,"['Science Fiction', 'Adventure', 'Drama']",2008-04-16,50
+22,Mysteries of Lorne,Unraveling the ancient secrets hidden within the mythical city of Lorne.,"['Fantasy', 'Mystery']",2011-10-23,60
+23,Harbor Tales,Life and loves in the idyllic coastal town of Willow Harbor.,"['Romance', 'Drama']",1999-05-15,120
+24,The Unknown Files,Following a team of investigators delving into unsolved mysteries.,"['Mystery', 'Crime', 'Thriller']",2005-09-11,80
+25,Echoes of Tomorrow,Survivors of a global catastrophe navigate their new world.,"['Science Fiction', 'Drama']",2015-03-20,70
+26,Chronicles of the Ancient,Adventures in a mystical land where ancient civilizations thrive.,"['Fantasy', 'Adventure']",2003-11-02,95
+27,Agents of Time,A group of time travelers corrects anomalies in history.,"['Science Fiction', 'Adventure', 'Drama']",2018-07-08,40
+28,Enigmas of the Mind,Exploring the capabilities and mysteries of the human mind.,"['Mystery', 'Thriller', 'Science Fiction']",2010-02-14,55
+29,Courage of the Free,A rebellion against tyranny in a dystopian world.,"['Drama', 'Adventure', 'Thriller']",2017-05-29,65
+30,The Last Historian,A lone historian raced to document the world before the impending apocalypse.,"['Drama', 'Mystery']",2020-01-01,30
+31,Galaxy Quest Chronicles,A crew of space explorers embarks on a journey to discover the unknown territories of outer space.,"['Sci-Fi', 'Adventure']",1999-04-13,22
+32,The Legends of Old Town,"Dive deep into the mysteries and stories that formed the basis of the Old Town, where every corner holds a secret waiting to be uncovered.","['Horror', 'Mystery', 'Historical']",2005-10-23,34
+33,Robots Among Us,"In the near future, robots live alongside humans, but a twist of events reveals that they are planning to take over the world.","['Sci-Fi', 'Thriller']",2015-05-16,45
+34,Wizards and Witches,A group of teenagers discovers their magical heritage and embarks on a journey to master their skills and battle the forces of evil.,"['Fantasy', 'Adventure', 'Young Adult']",2010-08-21,30
+35,Under the Ocean,An underwater journey that takes you through the life of creatures living beneath the ocean's surface and the secrets they hide.,"['Documentary', 'Nature']",2017-03-12,18
+36,Once Upon A Time In Space,"Set in a distant future, this series follows the adventures of a group of space travelers who explore different galaxies and face various challenges.","['Sci-Fi', 'Adventure', 'Drama']",2020-09-25,50
+37,Enchanted Forest,"Discover the mystical creatures that inhabit the Enchanted Forest and the stories of friendship, rivalry, and magic that unfold.","['Fantasy', 'Family']",2001-02-14,40
+38,Ghostly Encounters,Follow the thrilling investigations of a team of ghost hunters as they explore haunted locations to uncover the truth behind paranormal activities.,"['Horror', 'Documentary', 'Thriller']",2011-11-11,100
+39,The Future Is Now,"Explore the technological advancements of the future and how they impact humanity, from AI to living on Mars.","['Sci-Fi', 'Documentary']",2023-04-01,10
+40,Mythical Creatures of the World,"Travel across the globe to uncover the myths, legends, and stories of creatures believed to have existed in various cultures.","['Fantasy', 'Documentary', 'Adventure']",2008-07-19,24
+41,Mystic Voyages,"A group of intrepid explorers travel through mythical lands, uncovering ancient secrets and battling dark forces.","['Adventure', 'Fantasy']",2015-03-15,50
+42,TechnoSphere,"In a futuristic city where technology controls everything, a rebel group seeks to restore freedom to humanity.","['Science Fiction', 'Drama']",2020-07-22,30
+43,Lost Kingdoms,Adventurers discover remnants of lost civilizations and face challenges to unlock ancient mysteries.,"['Adventure', 'Historical']",2005-05-10,60
+44,Cosmic Conflicts,Interstellar wars rage across galaxies as alliances form and crumble in the quest for cosmic dominance.,"['Science Fiction', 'Action']",2012-11-18,70
+45,Elemental Guardians,Guardians wielding elemental powers protect their world from both internal and external threats.,"['Fantasy', 'Action']",2018-02-14,40
+46,Chronicle of Shadows,"In a world where shadows govern fate, a band of unlikely heroes emerges to challenge the darkness.","['Fantasy', 'Mystery']",2013-09-25,55
+47,Neon Dreams,"Young dreamers navigate love, life, and friendship in the neon-lit streets of a vibrant metropolis.","['Drama', 'Romance']",2017-04-02,24
+48,Echoes of the Past,A historian and a time traveler unravel historical mysteries using a blend of science and magic.,"['Historical', 'Science Fiction']",2010-06-16,32
+49,Galactic Pioneers,"A crew of explorers journey through uncharted territories in space, seeking new worlds and civilizations.","['Adventure', 'Science Fiction']",2019-08-09,45
+50,Secrets Within,"A team of psychic investigators delve into supernatural cases, uncovering hidden truths and battling dark entities.","['Mystery', 'Horror']",2014-12-05,52
+51,Galactic Voyagers,A team of explorers traverse the vast expanses of space to uncover the mysteries of the universe.,"['Sci-Fi', 'Adventure']",2010-04-14,100
+52,Mystic Pines,"In a small town surrounded by the eerie Mystic Pines forest, residents encounter bizarre and supernatural events.","['Mystery', 'Horror', 'Drama']",2015-10-31,45
+53,A Tale of Two Planets,"A series depicting the delicate peace and sudden conflicts between Earth and its neighboring planet, Zorax.","['Sci-Fi', 'Political Thriller']",2020-03-15,55
+54,The Chronicles of Eldoria,Follow the epic saga of heroes and villains in the magical world of Eldoria.,"['Fantasy', 'Adventure', 'Drama']",2005-08-20,200
+55,Undercover High,A secret agent goes undercover in a high school to prevent an international crisis.,"['Action', 'Comedy', 'Teen Drama']",2012-01-09,35
+56,Lost in Dreams,An inventor creates a machine that allows people to enter and explore each other's dreams.,"['Sci-Fi', 'Psychological Thriller']",2018-05-22,22
+57,Pirate Kingdoms,"During the golden age of piracy, competing pirate captains seek treasure, power, and fame across the seven seas.","['Action', 'Adventure', 'Historical']",2001-04-18,150
+58,Detective Riddles,A brilliant but eccentric detective solves crimes by deciphering complex riddles left by the culprits.,"['Crime', 'Mystery', 'Drama']",2016-11-10,75
+59,Future Imperfect,"Set in a dystopian future, a group of rebels fights to overturn a tyrannical government that controls time.","['Sci-Fi', 'Drama']",2023-01-01,30
+60,Cooking in Chaos,A reality show where chefs must prepare gourmet dishes in wildly unpredictable and challenging environments.,"['Reality', 'Comedy']",2017-07-08,40
+61,Galactic Outlaws,"A group of misfit pirates navigates the treacherous expanse of outer space, seeking treasure and glory.","['Sci-Fi', 'Adventure']",2005-09-14,80
+62,Majestic Courts,Royal intrigues and forbidden romances unfold in the secretive corridors of an ancient monarchy.,"['Drama', 'History']",2011-04-21,45
+63,The Lost Chronicles,A group of archaeologists uncover more than they bargained for when they discover an ancient map leading to lost civilizations.,"['Adventure', 'Mystery']",2001-01-07,25
+64,Beyond the Veil,Investigators use psychic abilities to solve crimes that transcend the physical world.,"['Supernatural', 'Crime']",2019-08-30,32
+65,Electric Dreams,"In a future where technology integrates seamlessly with human life, every day is an adventure in what it means to be alive.","['Sci-Fi', 'Drama']",2022-02-15,12
+66,Shadows in the Mist,"In a small town veiled in secrets, a young detective confronts myths and monsters to save her community.","['Thriller', 'Fantasy']",1998-10-23,60
+67,Underwater Kingdoms,A submarine crew discovers and interacts with underwater civilizations that are hidden from the surface world.,"['Adventure', 'Fantasy']",2013-05-19,50
+68,Echoes of the Past,Time travelers struggle to correct historical inaccuracies while dealing with the consequences of their actions in their timeline.,"['Sci-Fi', 'Historical']",2016-11-11,48
+69,Urban Legends,"Horror anthology series where each episode brings to life a new urban legend, blending modern fears with folklore.","['Horror', 'Anthology']",2004-03-05,30
+70,Crowned Hearts,"The intricate lives of the nobility in a kingdom where politics, magic, and love intertwine in unexpected ways.","['Fantasy', 'Drama']",2017-07-22,39
+71,Starwards Explorers,Follow the journey of a group of astral travelers as they navigate uncharted galaxies.,"['Sci-Fi', 'Adventure']",2012-09-20,80
+72,Mystical Tides,"A coastal town uncovers its deep, mystic secrets when a newcomer arrives.","['Drama', 'Mystery', 'Fantasy']",2015-04-12,45
+73,Flight of the Courier,"Post-apocalyptic Earth, one courier's quest to deliver hope across dangerous terrains.","['Adventure', 'Sci-Fi']",2018-07-19,22
+74,Replica Revolution,"In a world where clones fight for freedom, a group leads the charge against tyranny.","['Action', 'Sci-Fi', 'Thriller']",2020-01-01,36
+75,History's Echo,"A historian discovers time travel, encountering pivotal moments through centuries.","['Historical', 'Adventure', 'Drama']",1965-03-15,50
+76,Life in Code,"The lives of pioneering software developers in the 80s, culminating in a world-changing invention.","['Drama', 'Biography']",1983-09-10,24
+77,Groves High Mystery Club,High school sleuths work together to crack the case of a decades-old school mystery.,"['Mystery', 'Comedy', 'Drama']",1999-05-20,100
+78,Undercover Royals,A group of young royals goes undercover to expose corruption in the monarchy.,"['Drama', 'Thriller']",2005-11-02,56
+79,Neon Samurai,"In a dystopian future, a samurai seeks redemption and justice on neon-lit streets.","['Action', 'Cyberpunk']",2022-06-16,12
+80,Elemental Bonds,Four elemental warriors combine their strengths to protect their realm from dark forces.,"['Fantasy', 'Action', 'Adventure']",2009-08-23,64
+81,Galactic Pioneers,A group of explorers journey through uncharted galaxies to discover new life forms.,"['Sci-Fi', 'Adventure']",1996-04-16,120
+82,Mystery at Thorn Manor,A detective uncovers secrets hidden within an ancient family estate.,"['Mystery', 'Drama']",2005-10-23,85
+83,CyberWorld Chronicles,"In a dystopian future, a group of rebels fight to take down the corporation controlling the virtual reality space.","['Action', 'Sci-Fi']",2010-06-12,60
+84,The Last Kingdom of Magic,The story of the last magical kingdom fighting to survive against the realms of men.,"['Fantasy', 'Action']",2018-03-07,45
+85,Chronicles of the Forgotten,"An ancient civilization's stories are discovered by modern archaeologists, revealing secrets that could change the world.","['Historical', 'Adventure']",1999-09-15,100
+86,Star Voyage,Follows the crew of the spacecraft Endeavor as they explore new worlds and face unknown dangers.,"['Sci-Fi', 'Thriller']",2020-11-20,22
+87,Heart of the City,"A group of friends navigate love, life, and careers in a bustling metropolis.","['Drama', 'Romance']",2003-01-05,95
+88,Echoes in the Shadow,"A supernatural thriller that delves deep into a haunted past, where each shadow whispers its own tale.","['Horror', 'Supernatural']",2015-07-22,67
+89,Adventures in the Outer Rim,A team of explorers venture beyond known space to uncover the mysteries lying at the edge of the universe.,"['Sci-Fi', 'Adventure']",1987-05-30,150
+90,Undercover Dreams,An intelligence officer with the ability to infiltrate dreams must stop a terror threat that exists within the dream world.,"['Action', 'Psychological']",2022-01-15,12
+91,Faraway Quest,"A tale of explorers venturing into uncharted territories, facing mystical creatures and ancient secrets.","['Adventure', 'Fantasy']",1999-04-06,130
+92,Robot Uprising,"In the near future, AI has surpassed human intelligence, leading to a precarious showdown between man and machine.","['Science Fiction', 'Thriller']",2012-07-16,45
+93,Whisper of the Forest,A whimsical series where mythical beings protect the natural world from encroaching industrialization.,"['Fantasy', 'Drama']",2005-03-12,75
+94,Chronicles of the Past,"A historian discovers a way to travel back in time, witnessing firsthand the events that shaped the modern world.","['Historical', 'Adventure']",1987-05-22,60
+95,Galaxy Defenders,An elite team battles to save the universe from a malevolent force intending to alter the fabric of time and space.,"['Action', 'Science Fiction']",2015-09-10,100
+96,Mystic Schools,A group of teenagers with extraordinary powers navigate through their school lives while saving the world from unseen dangers.,"['Fantasy', 'Young Adult']",2010-11-20,85
+97,Undercover Tales,A gritty series following the lives of undercover agents as they infiltrate the world’s most dangerous criminal organizations.,"['Crime', 'Drama']",2003-01-15,50
+98,The Last Mage,"In a world where magic is nearly extinct, the last mage embarks on a quest to find others of his kind and restore balance.","['Fantasy', 'Adventure']",2017-08-27,40
+99,Empires at War,"Follow the dramatic tales of kingdoms clashing, political intrigue, and the quest for power in a meticulously detailed historical setting.","['Historical', 'War', 'Drama']",1995-06-30,200
+100,Neon Shadows,A neo-noir series that delves into the lives of private detectives navigating the shadowy corners of a dystopian city.,"['Noir', 'Thriller']",2021-10-03,22
+101,Galactic Frontiers,"A group of space explorers chart unknown territories in the galaxy, forging alliances and battling cosmic threats.","['Sci-Fi', 'Adventure']",1995-02-16,250
+102,Whispering Realms,"In a mystical world of magic and mystery, a group of unlikely heroes embark on a quest to stop an ancient evil.","['Fantasy', 'Drama', 'Mystery']",2002-07-22,100
+103,Eclipse of Destiny,Fate binds two rivals together as they uncover hidden truths and fight to shape the future of their war-torn world.,"['Action', 'Drama', 'Fantasy']",2010-11-10,80
+104,The Chronicles of Eldoria,"In a land ruled by ancient dragons, a young orphan discovers her royal lineage and embarks on a daring mission to reclaim her throne.","['Fantasy', 'Adventure']",1985-03-15,65
+105,Virtue of the Shadows,"A stealthy group of thieves uses their skills for good, challenging the corrupt elite of a sprawling metropolis.","['Action', 'Thriller', 'Drama']",2005-09-09,90
+106,Mystic Brew,"Follow the lives of a quirky group of witches running a magical cafe, where each brew has a spell of its own.","['Comedy', 'Fantasy']",2016-06-20,120
+107,Robots of Dawn,"In a future where robots have integrated into society, one android detective solves crimes between humans and machines.","['Sci-Fi', 'Crime', 'Drama']",2022-01-05,12
+108,Empires at War,"Historical series depicting the dramatic clashes between mighty empires throughout history, altering the course of humanity.","['History', 'War', 'Drama']",1978-10-14,200
+109,Chronicles of the Gifted,A school for the supernaturally gifted becomes the battleground for the future of humanity as secrets come to light.,"['Fantasy', 'Action', 'Drama']",1999-04-02,150
+110,Suburban Secrets,"Beneath the serene surface of a perfect suburban neighborhood, lies a network of dark mysteries and hidden lives.","['Mystery', 'Thriller']",2015-08-23,45
+111,Cosmic Voyagers,A group of explorers travel through wormholes in the fabric of space-time to protect civilizations from cosmic threats.,"['Science Fiction', 'Adventure']",2010-06-15,120
+112,Heartstrings Avenue,"Set in the 1960s, a series about love, loss, and the music that saved a generation's soul.","['Drama', 'Musical', 'Romance']",2005-09-23,85
+113,Mystics of Eldoria,"In a land where magic and technology coexist, a young sorceress uncovers ancient secrets that could change their world forever.","['Fantasy', 'Adventure', 'Mystery']",2015-04-05,68
+114,Parallel Crossings,A quantum physicist discovers portals to alternate realities and the implications it has on her life and the universe.,"['Science Fiction', 'Drama']",2018-11-11,45
+115,Ghouls of Gothic Lane,A group of teenagers solve mysteries while dealing with the supernatural entities plaguing their town.,"['Horror', 'Mystery', 'Comedy']",2012-07-20,95
+116,Chronicles of the Stars,Follow the adventures of an interstellar crew as they explore the furthest reaches of the galaxy in search of new worlds.,"['Science Fiction', 'Adventure', 'Drama']",2016-03-10,110
+117,Enchanted Realms,"An epic saga of kingdoms in conflict, where magic and dragons decide the fate of empires.","['Fantasy', 'Action', 'Drama']",2008-08-19,76
+118,Agents of Shadow,Elite spies use advanced technology and espionage to thwart plots threatening global peace.,"['Action', 'Thriller', 'Science Fiction']",2020-01-24,52
+119,Forgotten Archives,A librarian discovers a magical book that leads her on quests to recover lost knowledge and artifacts.,"['Adventure', 'Fantasy', 'Mystery']",2003-05-07,89
+120,Cyber Realm,"In a dystopian future, a group of hackers fights to take down oppressive government surveillance and protect digital freedoms.","['Science Fiction', 'Drama']",2019-09-09,60
+121,Adventures of the Infinite,A journey through uncharted galaxies with a crew on a mission to discover new life forms.,"['Science Fiction', 'Adventure']",2010-03-14,120
+122,Magic in Montrovia,A hidden world of magic unfolds as a young apprentice discovers her powers in a city where magic is outlawed.,"['Fantasy', 'Drama']",2015-05-22,80
+123,Detectives of Past and Future,A unique team of detectives solve crimes by investigating cases in both past and future timelines.,"['Crime', 'Science Fiction', 'Thriller']",2018-09-15,60
+124,Underwater Kingdoms,An exploration of the mythical civilizations that reside deep within Earth's oceans.,"['Adventure', 'Fantasy']",2005-07-19,45
+125,Mysteries of the Silent,A team of researchers uncover secrets from civilizations that existed before recorded history.,"['Documentary', 'History']",2012-11-11,30
+126,Echoes from the Void,Survivors of a spacecraft accident are stranded in a dimension where reality does not apply conventional laws.,"['Science Fiction', 'Horror']",2017-02-26,50
+127,Journey Through Twilight,Exploring the complex relationships between humans and mythical creatures during twilight hours when all become visible.,"['Fantasy', 'Romance']",2020-08-05,75
+128,Chronicles of the Forgotten Realms,"In search of lost civilizations, a group of historians uncover more than they bargain for.","['Adventure', 'Mystery']",2000-03-23,100
+129,Saga of the Starborne,"The last hope for humanity, a fleet of starships, searches for a new home across the galaxies.","['Science Fiction', 'Drama']",2022-01-16,40
+130,Kings and Pawns,The intricate lives of the ruling and the ruled in a kingdom on the brink of revolution.,"['Drama', 'Historical']",1998-05-20,90
+131,Galactic Odyssey,"A crew of explorers traverse through uncharted territories in space, seeking new worlds and civilizations.","['Sci-Fi', 'Adventure']",1995-04-16,150
+132,Spectral Investigators,A group of paranormal researchers tackle ghosts and supernatural forces in various haunted locations.,"['Horror', 'Mystery', 'Documentary']",2001-10-31,120
+133,The Court of Flowers,"In a magical realm, a young girl with hidden powers must navigate the dangerous intrigues of the royal court.","['Fantasy', 'Drama']",2011-03-20,85
+134,Underground Railrunners,"In a dystopian future, a group of rebels operates a secret network to fight against an oppressive regime.","['Action', 'Sci-Fi']",2017-09-15,45
+135,Histories of the Forgotten,An anthology series that brings to light the untold stories of people from different periods.,"['Drama', 'History']",2008-05-23,60
+136,Laughing Under the Clouds,"A sitcom about a family that runs a clown school, dealing with life's ups and downs with humor.",['Comedy'],2014-02-14,100
+137,Digital Warriors,Teenagers with the ability to enter the digital world fight against viruses threatening both the digital and real world.,"['Action', 'Adventure', 'Animation']",2020-08-08,25
+138,Code of the Sea,Marine biologists and environmentalists unravel mysteries of the ocean while combating illegal poaching.,"['Documentary', 'Drama']",2003-06-12,80
+139,Mystic Bakery,"A whimsical bakery where every pastry comes with a spell, turning the small town upside down.","['Fantasy', 'Comedy']",2018-11-29,52
+140,Chronicles of the Edge,"Set in a world where the known universe meets the unknown, brave explorers seek truth beyond the edge.","['Sci-Fi', 'Adventure', 'Mystery']",2022-04-04,10
+141,Galactic Voyagers,A crew of misfit adventurers discovering new worlds in the uncharted zones of space.,"['Sci-Fi', 'Adventure']",2007-03-15,120
+142,Mystic Hills,"In a small town shadowed by legends, a group of teenagers uncover hidden truths.","['Fantasy', 'Mystery', 'Drama']",2012-10-05,85
+143,Echoes of Past,A historian deciphers clues to solve mysteries from forgotten times.,"['History', 'Adventure']",2016-01-20,50
+144,CyberSaga,Futuristic rebels fight against a digital dystopia to restore freedom.,"['Sci-Fi', 'Action']",2020-07-11,30
+145,Ghostly Whispers,"After moving into an ancient house, a family encounters events defying the laws of our world.","['Horror', 'Supernatural', 'Drama']",2005-09-22,95
+146,Law of The Lands,"In a kingdom torn by power, a lone judge tries to maintain justice.","['Fantasy', 'Legal']",2011-02-16,75
+147,Cosmic Rivals,Two planets embroiled in generations of conflict attempt to negotiate peace.,"['Sci-Fi', 'Political', 'Drama']",2018-05-04,40
+148,Suburban Legends,Ordinary neighbors in a small town harbor extraordinary secrets.,"['Mystery', 'Comedy']",2014-03-18,100
+149,Guardians of Gaia,A team of environmentalists use their abilities to save Earth from ecological disasters.,"['Adventure', 'Environmental', 'Sci-Fi']",2019-08-30,60
+150,Crystal Realms,"A parallel universe where magic and science blend, leading to unforeseen adventures.","['Fantasy', 'Sci-Fi']",2023-04-20,20
+151,Galactic Voyagers,A journey through the uncharted territories of the universe with a mismatched crew of explorers.,"['Sci-Fi', 'Adventure']",2001-04-16,100
+152,Mystic Chronicles,"An epic tale of magic and prophecy, where a group of unlikely heroes must prevent the end of the world.","['Fantasy', 'Drama']",2010-09-25,80
+153,Urban Legends,"Exploring the darkness of city myths, each episode reveals the truth behind urban legends.","['Horror', 'Mystery']",1998-01-08,60
+154,The Inventor's Mind,Follow the life of a genius inventor and the revolutionary creations that changed the world.,"['Biography', 'History']",2015-03-22,35
+155,Quantum Leaps,"A particle physicist accidentally discovers time travel, leading to unexpected adventures in different eras.","['Sci-Fi', 'Thriller']",2020-07-19,50
+156,Chronicles of the Lost,Survivors of a shipwreck find themselves on a mysterious island with secrets that could lead to their salvation or doom.,"['Adventure', 'Suspense']",2005-11-10,90
+157,The Cooking Maestro,A renowned but unruly chef takes you on a journey through culinary excellence in the world's top kitchens.,"['Cooking', 'Reality']",2018-05-06,45
+158,Tales of the Ancient,Rediscover the stories of forgotten civilizations and their legacies that shaped the modern world.,"['Documentary', 'History']",2012-02-14,25
+159,Cyber Sleuths,"In a world dominated by technology, a team of hackers and government agents work together to prevent cyber threats.","['Crime', 'Sci-Fi']",2019-09-09,70
+160,The Last Ranger,"In a dystopian future, a lone ranger with unmatched skills fights to change the fate of humanity.","['Action', 'Post-Apocalyptic']",2023-01-05,55
+161,Galactic Quest,"A band of misfit explorers journey through uncharted territories in space, seeking knowledge and adventure.","['Sci-Fi', 'Adventure']",1999-04-15,120
+162,Wizards of the Westwood,"In a mystical land where magic reigns supreme, a young wizard learns the true cost of power.","['Fantasy', 'Drama']",2002-10-11,85
+163,Detective Riddles,"Solving crimes one riddle at a time, Detective Riddles is on the case!","['Crime', 'Mystery']",2010-03-22,95
+164,The Chronicles of the Future,"Time travelers from the future attempting to correct their dystopian world, but every change comes with its consequences.","['Science Fiction', 'Thriller']",2015-07-05,76
+165,High Seas Adventure,"Pirates, treasure, and epic sea battles are all in a day's work for the crew of The Black Pearl.","['Adventure', 'Action']",2005-09-14,60
+166,Culinary Dreams,Follow the journey of a group of chefs competing for the title of the world's best.,"['Reality', 'Cooking']",2018-02-09,52
+167,Robotica,"In a world where robots have replaced human jobs, one android finds its purpose in helping humanity.","['Sci-Fi', 'Drama']",2021-05-20,45
+168,Historia,An anthology series where each season explores a pivotal moment in human history.,"['Drama', 'Historical']",2013-11-15,33
+169,The Maze of Mirrors,A young girl discovers a mysterious mirror maze that transports her to other realms.,"['Fantasy', 'Adventure']",2000-07-08,100
+170,Planet X,Survivors on a post-apocalyptic earth find a mysterious planet that could be the key to humanity's survival.,"['Sci-Fi', 'Post-Apocalyptic']",2022-01-12,67
+171,Galactic Pioneers,"Follows the adventures of a courageous crew aboard the starship Nova, as they discover new worlds.","['Sci-Fi', 'Adventure']",1978-09-15,50
+172,The Mystery of Ravenswood,"Set in the eerie town of Ravenswood, this series uncovers the supernatural mysteries lurking within.","['Mystery', 'Horror']",1986-10-23,75
+173,Agents of Unity,An elite team of agents working in unity to prevent global crises before they occur.,"['Action', 'Thriller']",1995-02-14,120
+174,Chronicles of the Ancient,"Ancient deities and beings interact with the modern world, revealing history's untold stories.","['Fantasy', 'Historical']",2005-07-27,60
+175,Quantum Threads,"Scientists uncover a way to travel through alternate realities, facing unique challenges in each.","['Sci-Fi', 'Drama']",2011-03-15,100
+176,The Artisans,A group of artists from different disciplines come together to create a groundbreaking exhibition.,"['Drama', 'Romance']",2014-05-21,30
+177,Beyond the Abyss,Deep-sea explorers encounter mythical creatures and lost cities in the Earth's uncharted waters.,"['Adventure', 'Fantasy']",2017-08-11,40
+178,Enigmas of the Mind,A brilliant psychologist solves crimes by diving into the minds of both victims and perpetrators.,"['Crime', 'Psychological Thriller']",2019-01-10,55
+179,Skyward Bound,"After discovering a mysterious artifact, a group of kids gain the power to fly and embark on aerial adventures.","['Family', 'Adventure']",2021-06-04,25
+180,The Cosmic Tapestry,"An anthology series that explores the interconnectedness of the universe, blending science with spirituality.","['Drama', 'Sci-Fi']",2023-04-02,10
+181,Galactic Voyagers,"An epic journey through the cosmos, following the crew of the Starwave as they explore unknown galaxies.","['Science Fiction', 'Adventure']",1985-04-02,75
+182,Mysteries of the Blue,Dive deep into the ocean's unseen worlds with a team of marine scientists uncovering secrets of the deep sea.,"['Documentary', 'Nature']",1998-07-16,36
+183,Elves of Eldoria,"In the mystical lands of Eldoria, elves battle dark forces to save their world from destruction.","['Fantasy', 'Drama']",2005-10-10,90
+184,Beyond the Law,A former detective uses unconventional methods to solve crimes that have been abandoned by the police.,"['Crime', 'Thriller']",2015-03-23,40
+185,Tech Titans,"Tech inventors and entrepreneurs push the boundaries of technology, shaping the future in unimaginable ways.","['Documentary', 'Biography']",2020-11-19,12
+186,Lost Among Stars,"After crash-landing on an alien planet, the crew of the Aries must find a way back home.","['Science Fiction', 'Drama']",2017-06-07,55
+187,Whispers in the Dark,A group of friends discovers an ancient secret that will change their lives forever.,"['Mystery', 'Horror', 'Drama']",1993-09-11,45
+188,Chronicles of the Ancients,Unravel the mysteries of ancient civilizations and their lost technologies in this historic journey.,"['History', 'Adventure']",2010-02-20,30
+189,Harmony Hills,"In a small town filled with secrets, the residents of Harmony Hills navigate life's challenges together.","['Drama', 'Soap Opera']",2000-05-15,120
+190,Gadget Geeks,"A talented team of engineers build and test new gadgets, pushing the limits of current technology.","['Talk Show', 'Technology']",2022-01-09,25
+191,Star Voyagers,A group of space explorers embark on a journey to uncover the mysteries of the Andromeda Galaxy.,"['Sci-Fi', 'Adventure']",1984-03-15,50
+192,Baker Street Chronicles,"In a steam-punk version of London, a group of detectives solve crimes unthinkable to the ordinary mind.","['Mystery', 'Fantasy']",1991-07-22,36
+193,Quantum Threads,"A physicist discovers a way to travel through time and alters historical events, only to face unforeseen consequences.","['Sci-Fi', 'Drama']",2001-10-03,60
+194,The Emerald Dynasty,Families of a mythical kingdom fight over control of lands rich in emeralds and magic.,"['Fantasy', 'Adventure', 'Drama']",2010-05-16,75
+195,Galactic Enforcers,"In the year 3050, a team of intergalactic law enforcers battle to keep peace in the universe.","['Sci-Fi', 'Action']",2022-01-09,22
+196,Secrets of the Silk Road,A historical drama that explores the ancient Silk Road and the cultural exchange and conflict along its path.,"['Historical', 'Drama']",1978-09-12,45
+197,Oceanic Odyssey,A submarine crew embarks on a perilous journey to explore the uncharted depths of the ocean.,"['Adventure', 'Thriller']",2005-11-21,30
+198,Rising Shadows,"In a world consumed by darkness, a small band of heroes emerges to reclaim the light.","['Fantasy', 'Action']",1995-04-07,65
+199,Cybernetic,"In the near future, humans and artificial intelligence must learn to coexist or face extinction.","['Sci-Fi', 'Thriller']",2015-08-30,40
+200,The Last Kingdom,"A historical epic of love, betrayal, and battles for power in a kingdom on the brink of destruction.","['Historical', 'Action', 'Drama']",2008-06-19,55
+201,Galactic Pioneers,A group of unlikely allies traverse the cosmos to uncover ancient secrets while evading space pirates.,"['Sci-Fi', 'Adventure']",2011-04-15,120
+202,Chronicles of Eldoria,"Set in a mystical land, this series follows the journey of a young sorcerer destined to unify the fragmented kingdoms.","['Fantasy', 'Drama']",2005-09-23,80
+203,Aquatic Horizons,Marine biologists discover an underwater civilization and the incredible secrets it holds about our oceans.,"['Documentary', 'Thriller']",2018-03-11,24
+204,The Laughing Detectives,A buddy cop series where two very opposite detectives solve crimes while hilariously failing to get along.,"['Comedy', 'Crime']",2013-07-19,50
+205,Mysteries of the Past,Historians and archaeologists team up to solve some of the most perplexing mysteries left by our ancestors.,"['Documentary', 'History']",1996-11-02,120
+206,Tomorrow's Shadow,"In a dystopian future, a group of rebels discovers the key to overthrowing an oppressive regime.","['Action', 'Sci-Fi']",2017-05-10,30
+207,Chef's Table: Mars Edition,"Follow the culinary journey of the first colony on Mars, incorporating extraterrestrial ingredients into gourmet dishes.","['Cooking', 'Science Fiction']",2023-01-25,12
+208,Winds of Change,A political thriller that dives deep into the intricacies and turmoil of a country on the brink of a revolution.,"['Drama', 'Political']",2002-04-17,60
+209,Quantum Realms,"A team of physicists open a portal to parallel universes, confronting alternate versions of themselves.","['Sci-Fi', 'Mystery']",2009-12-09,90
+210,The Secret Lives of Pets,Explore the adventures and mischievous antics pets get up to when their owners are away.,"['Animation', 'Comedy']",2016-08-05,40
+211,Galactic Marvels,"A journey across the stars, narrating the adventure of a crew destined to unveil the universe's oldest mysteries.","['Sci-Fi', 'Adventure']",2008-05-15,120
+212,Chronicles of Eldoria,"In a land where magic and politics intertwine, a young wizard unravels secrets that could change Eldoria forever.","['Fantasy', 'Drama']",2010-09-10,80
+213,Agents of Shadows,A group of exceptionally skilled detectives operate under the radar to solve crimes that link the supernatural with the human world.,"['Crime', 'Mystery', 'Supernatural']",2015-03-22,60
+214,Quantum Realities,"A quantum physicist discovers a way to travel between parallel worlds, exploring different versions of their life.","['Science Fiction', 'Drama']",2017-11-05,45
+215,The Last Dynasty,"Following the fall of a powerful empire, the surviving royal members fight to reclaim their throne from the usurpers.","['Historical', 'Action', 'Drama']",2005-01-20,100
+216,Cyber Nexus,"In a future where technology controls everything, a group of hackers starts a revolution to free society from corporate chains.","['Cyberpunk', 'Thriller']",2020-07-16,36
+217,Mystic River Tales,"A small town's serenity is shattered by mystical events, revealing the town’s deep secrets and the river’s mysterious past.","['Fantasy', 'Mystery', 'Drama']",2012-04-12,70
+218,Echoes of Tomorrow,Survivors of a global catastrophe navigate their way through a world where technology has been set back centuries.,"['Post-apocalyptic', 'Adventure']",2019-10-30,50
+219,Arcanum Unbound,An ancient library is discovered harboring secrets that could alter the understanding of magic and its origin.,"['Fantasy', 'Mystery']",2014-06-18,90
+220,The Covenant of Stars,An alliance of different planetary systems fights against a common enemy threatening the universe's balance.,"['Sci-Fi', 'Action']",2021-12-09,55
+221,Galactic Outlaws,"Adventures of a misfit crew of antiheroes through the galaxy's uncharted territories, fighting for survival.","['Sci-Fi', 'Adventure']",2002-03-15,78
+222,Elven Chronicles,"In a mystical land, a young elf uncovers her destiny to unite the divided kingdoms against an ancient evil.","['Fantasy', 'Drama']",2005-07-24,55
+223,Dawn of the Robots,Humans and AI live in precarious balance until a rogue AI threatens to upset the world order.,"['Sci-Fi', 'Action']",2015-09-10,44
+224,Pirate's Bounty,"A legendary pirate captain leads her crew on treasure hunts, navigating through peril and battles on the high sea.","['Adventure', 'Historical Fiction']",1998-05-16,102
+225,Underneath Stardust,Two star-crossed lovers from different planets break all norms for a forbidden affair that shakes the cosmos.,"['Romance', 'Sci-Fi', 'Drama']",2011-11-30,76
+226,Rise of the Ancients,"An ancient civilization is unearthed, revealing secrets that could either advance humanity or bring about its downfall.","['Historical Fiction', 'Mystery', 'Supernatural']",2009-04-03,65
+227,Mage's Destiny,"In a world where magic is real but hidden, a reluctant hero embarks on a journey to master the arcane and combat a looming threat.","['Fantasy', 'Action', 'Adventure']",2018-02-14,39
+228,Techno Crisis,"Set in a dystopian future, a team of rebels fights against totalitarian rule enforced by an omnipotent AI.","['Dystopian', 'Thriller']",2020-10-21,50
+229,Echoes of Tomorrow,"Survivors of a global cataclysm navigate their new reality, where the past and future seem to blur.","['Sci-Fi', 'Drama', 'Psychological']",2017-08-07,60
+230,Realm of Shadows,"A world where the supernatural is commonplace, detective teams up with a vampire to solve a series of mystic crimes.","['Supernatural', 'Crime', 'Thriller']",2013-12-17,88
+231,Spectral Chronicles,"In a world where fantasy and technology collide, a group of unlikely heroes emerges to battle the dark forces gathering at the edge of reality.","['Fantasy', 'Sci-Fi', 'Adventure']",2015-04-10,45
+232,The Baker Street Society,"In Victorian London, a secret society of detectives solves crimes the police deem unsolvable, using wit, disguise, and the latest forensic methods.","['Mystery', 'Historical', 'Drama']",2018-09-15,36
+233,Quantum Echoes,"A group of scientists experimenting with time travel accidentally alters the course of history, and must journey through different timelines to restore the original timeline.","['Sci-Fi', 'Thriller']",2022-03-22,22
+234,Empires of Sand,"Set in ancient times, this epic saga tells the story of two rival kingdoms battling over the control of a mystical desert that holds the power to change their world.","['Fantasy', 'Action', 'Drama']",2016-05-07,50
+235,Neon Streets,"In the pulsing heart of a futuristic metropolis, a cybernetically enhanced detective hunts a serial hacker causing chaos in the digital world.","['Cyberpunk', 'Crime', 'Thriller']",2021-11-10,30
+236,Gardens of the Galaxy,"When a misfit crew of space gardeners stumbles upon an ancient seed capable of terraforming planets, they find themselves chased across the cosmos by ruthless eco-terrorists.","['Comedy', 'Sci-Fi', 'Adventure']",2023-01-15,12
+237,Whispers in the Dark,"After moving into a haunted house, a young writer discovers the ghosts of its past occupants, who lead her to uncover a century-old mystery.","['Supernatural', 'Mystery', 'Horror']",2019-08-25,20
+238,Chronicles of the Forgotten Realm,"An ancient book transports a modern-day librarian to a world where magic reigns, and she must band together with a group of rebels to fight an evil empire.","['Fantasy', 'Action', 'Adventure']",2017-04-17,40
+239,Echoes of Tomorrow,"Following a cataclysm that changes the face of the earth, survivors band together to rebuild society and uncover the mysteries of the apocalypse.","['Post-apocalyptic', 'Drama', 'Sci-Fi']",2020-02-09,25
+240,In the Shadow of Titans,"Giant creatures mysteriously appear across the globe, and a group of teens gains the power to communicate with them and steer them away from civilization.","['Fantasy', 'Adventure', 'Thriller']",2023-06-30,18
+241,Adventures in the Cosmos,Follow a daring crew as they explore uncharted galaxies in the 23rd century.,"['Science Fiction', 'Adventure']",2022-03-10,26
+242,Marblewood Secrets,"In a town full of mysteries, a group of teenagers uncovers the darkest secrets hidden for generations.","['Mystery', 'Drama', 'Thriller']",2018-05-16,45
+243,The Last Mage,The tale of Earth's last mage fighting to save the world from a magical apocalypse.,"['Fantasy', 'Action']",2020-11-11,36
+244,Jurassic Colorado,"Dinosaurs roam modern-day Colorado after a failed experiment, and a team of scientists must contain them.","['Science Fiction', 'Adventure']",2019-08-22,22
+245,Queen of Shadows,A royal heir battles dark forces to regain her throne in a medieval fantasy realm.,"['Fantasy', 'Drama']",2017-02-15,40
+246,Space Outlaws,A renegade crew on the run from the galactic empire finds adventure in every corner of the universe.,"['Science Fiction', 'Adventure']",2021-07-05,30
+247,Lighthouse Mysteries,"In a coastal town, the lighthouse keeper solves mysteries involving myths and legends of the sea.","['Mystery', 'Fantasy']",2015-04-21,12
+248,Eternal Vigilance,A cyberpunk saga of a group of hackers fighting against corporate control in a dystopian future.,"['Cyberpunk', 'Thriller']",2023-01-01,10
+249,Chronicles of the Forgotten Realms,"An epic fantasy adventure into worlds unknown, where heroes battle ancient evils across multiple dimensions.","['Fantasy', 'Adventure', 'Action']",2020-09-09,50
+250,Robot Uprising,"In 2045, humanity faces its greatest challenge when AI turns against its creators, leading to a fight for survival.","['Science Fiction', 'Drama']",2021-12-12,18
+251,Galactic Pioneers,A group of explorers traverse the universe to discover new worlds and civilizations.,"['Sci-Fi', 'Adventure']",2005-03-22,120
+252,Mystic Falls,"In a quaint town full of secrets, a group of teenagers uncovers the truth about their ancestors and the supernatural powers they possess.","['Fantasy', 'Drama', 'Romance']",2010-08-15,85
+253,Quantum Tech,Follows a team of geniuses fighting crime using cutting-edge technology.,"['Sci-Fi', 'Thriller']",2018-01-09,60
+254,Lost Colonies,Survivors on a distant planet struggle to build a new society while facing the mysteries of their new home.,"['Sci-Fi', 'Adventure', 'Mystery']",2023-04-20,10
+255,Underwater Realms,A documentary series exploring the uncharted depths of the ocean and the creatures that inhabit them.,"['Documentary', 'Nature']",2015-05-16,24
+256,Wizards of Eldor,A saga of young wizards mastering ancient spells to prevent dark forces from conquering their world.,"['Fantasy', 'Adventure']",1999-11-07,150
+257,Cyber Crimes Unit,An elite team of officers use their hacking skills to solve crimes and bring justice in the digital age.,"['Crime', 'Drama', 'Thriller']",2012-03-12,90
+258,Space Outlaws,Rogue traders and smugglers navigate the dangers of space commerce and the law.,"['Sci-Fi', 'Action', 'Adventure']",2001-06-05,100
+259,Ancient Architects,Explores the history of ancient civilizations and the architectural wonders they left behind.,"['Documentary', 'History']",2017-09-14,32
+260,Robot Uprising,"In the near future, a group of humans bands together to fight against sentient robots intent on eradicating humanity.","['Sci-Fi', 'Action', 'Drama']",2021-02-27,45
+261,Journey to Zentar,An epic saga of a group of adventurers traveling to the magical world of Zentar to defeat an ancient evil.,"['Fantasy', 'Adventure']",2005-03-15,100
+262,Galactic Defenders,A team of space heroes band together to protect the galaxy from cosmic threats.,"['Sci-Fi', 'Action']",2010-07-22,80
+263,Mysteries of Laura's Shop,"Every item in Laura's antique shop has a story, some more mysterious and darker than others.","['Mystery', 'Drama']",2019-11-03,45
+264,The Quantum Leap,A scientist stuck in the time loop attempts to right the wrongs of the past with limited memory of his future.,"['Sci-Fi', 'Thriller']",1995-09-28,150
+265,Eternal Knights,"In a post-apocalyptic world, a band of survivors fight against mutant creatures to save humanity.","['Post-Apocalyptic', 'Adventure']",2022-05-17,36
+266,Majestic Witches,"Three sister witches use their power for good, battling dark forces in their enchanted town.","['Fantasy', 'Drama']",2000-10-31,78
+267,Chronicles of the Lost,"A stranded crew on a distant planet tries to find their way back home, uncovering the planet's ancient secrets.","['Sci-Fi', 'Adventure']",2015-04-12,64
+268,Life in Maple Street,"Follow the lives of residents living on Maple Street as they navigate through love, loss, and the joy of everyday life.","['Slice of Life', 'Drama']",2008-08-20,120
+269,Pirate's Gold,A swashbuckling tale of legendary pirate Captain Hawk and his quest for the greatest treasure.,"['Adventure', 'Historical']",1998-02-14,65
+270,Shadow Realm,Detective Laura Mendes discovers a hidden world of shadows and must use her new powers to save her city.,"['Fantasy', 'Crime']",2021-09-09,52
+271,Mystic Voyagers,"A group of explorers navigate through uncharted territories in space, discovering new planets and civilizations.","['Sci-Fi', 'Adventure']",2001-04-16,50
+272,Shadow Sleuths,Detectives with the ability to interact with supernatural entities solve mysteries that baffle regular police.,"['Mystery', 'Supernatural', 'Crime']",1998-09-20,75
+273,Glimmer of Hope,A post-apocalyptic world where a small group of survivors discovers a way to bring humanity back from the brink.,"['Drama', 'Sci-Fi']",2010-05-12,30
+274,Magnolia's Secrets,"In the picturesque town of Magnolia, everyone has a secret. It's up to a keen journalist to uncover the truth.","['Drama', 'Mystery']",2015-03-09,40
+275,The Eighth Ocean,"Sail the uncharted waters of the magical eighth ocean, filled with mythical creatures and untold dangers.","['Fantasy', 'Adventure']",1987-11-11,60
+276,Galactic Guardians,A team of heroes protects the universe from interstellar threats while dealing with their own personal drama.,"['Action', 'Sci-Fi', 'Drama']",2022-07-18,20
+277,Lost Legends,Ancient myths and legends are explored and reimagined in this series that spans across civilizations.,"['Historical', 'Fantasy']",1995-02-22,85
+278,Whispers in the Wind,A small town is plagued by mysterious occurrences that are said to be orchestrated by the wind itself.,"['Supernatural', 'Horror', 'Mystery']",2006-06-06,45
+279,Frostbitten,Survivors of a plane crash must navigate the challenges of the Arctic wilderness to find their way back to civilization.,"['Survival', 'Drama']",2017-12-15,25
+280,Echoes of Tomorrow,"Scientists attempting to prevent future disasters inadvertently create new ones, causing them to deal with their consequences in the present.","['Sci-Fi', 'Thriller']",2023-01-01,12
+281,Galactic Quest,A group of interstellar explorers discover new worlds and civilizations beyond the imagination.,"['Sci-Fi', 'Adventure']",2005-03-15,100
+282,Medieval Chronicles,"Set in a kingdom of intrigue and dark magic, a young squire aims to become the greatest knight.","['Fantasy', 'Drama']",2011-06-22,85
+283,Tomorrow's Secrets,"A time-traveling detective solves mysteries that bridge the past, present, and future.","['Mystery', 'Sci-Fi']",2017-09-10,56
+284,Urban Legends,An anthology series that explores the nightmares lurking in the shadows of modernity.,"['Horror', 'Thriller']",2020-10-31,33
+285,The Underwood Tales,"In a world where fairy tales are real, a band of heroes embarks on a quest to save their kingdom.","['Fantasy', 'Adventure']",2007-12-05,76
+286,Celestial Voyages,The crew of the starship Horizon journeys to the edges of the galaxy and uncovers ancient secrets.,"['Sci-Fi', 'Mystery']",2019-05-04,64
+287,Rogue Spies,Disavowed agents from various governments form an underground network to stop global threats.,"['Action', 'Thriller']",2014-04-18,48
+288,Empire of Dreams,"In a futuristic utopia, a group of friends uncovers a plot that threatens everything they hold dear.","['Sci-Fi', 'Drama']",2023-01-09,22
+289,Sea Bound Souls,"After a shipwreck, survivors on a deserted island discover hidden realms and mystical creatures.","['Adventure', 'Fantasy']",1999-08-20,67
+290,The Ashen World,"Following a cataclysmic event, the remnants of humanity strive to rebuild civilization amidst chaos.","['Post-apocalyptic', 'Drama']",2022-11-11,31
+291,The Chronicles of Aloria,A mystical journey of a young hero destined to find the lost Stones of Power and save the Kingdom of Aloria from eternal darkness.,"['Fantasy', 'Adventure', 'Drama']",2005-03-15,78
+292,Gadgets and Gizmos,"A brilliant inventor and her quirky sidekick embark on adventures to create astonishing gadgets, solving eccentric problems along the way.","['Science Fiction', 'Comedy']",2011-07-08,52
+293,Mystic Brew,"In a town where magic is the day-to-day, a barista discovers her brews are granting wishes - and causing chaos.","['Fantasy', 'Comedy', 'Romance']",2019-09-21,24
+294,Space Renegades,A crew of unlikely allies aboard the spaceship Nova embark on a dangerous mission to the edge of the galaxy to uncover lost civilizations.,"['Science Fiction', 'Adventure']",1986-05-16,100
+295,Detective Marlowe,"In the gritty city of New Haven, Detective Marlowe solves crimes that baffles the police department, using unorthodox methods and sharp wit.","['Crime', 'Drama', 'Mystery']",1995-01-12,150
+296,Robots Next Door,A suburban family's life is turned upside down when they discover their new neighbors are a family of robots hiding from the government.,"['Comedy', 'Science Fiction']",2008-10-03,65
+297,Lost Kingdoms,"An archaeologist teams up with a roguish treasure hunter to uncover ancient, powerful artifacts before they fall into the wrong hands.","['Adventure', 'History', 'Fantasy']",2003-04-27,85
+298,Undercover Dreams,A secret agent with the ability to enter peoples' dreams must navigate surreal landscapes to thwart a global conspiracy.,"['Thriller', 'Science Fiction', 'Drama']",2018-06-14,40
+299,Eldritch Tales,"In a world where the supernatural is known to exist, a skeptic and a believer explore haunted sites to uncover the truth.","['Horror', 'Mystery', 'Adventure']",2016-10-31,22
+300,Sovereign Skies,"After Earth's destruction, the remnants of humanity voyage through space to find a new home, overcoming cosmic threats along the way.","['Science Fiction', 'Drama']",2022-09-09,12
