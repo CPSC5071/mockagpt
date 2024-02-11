@@ -18,6 +18,7 @@ columns = [
         "Please enter a list of columns, separated by commas (e.g. Name, Description, Genre, Release Date): "
     ).split(",")
 ]
+context = input("Please provide additional instructions or context, if any: ")
 presence_penalty = 0.1
 temperature = 1.1
 max_rows_per_thread = 10 # from testing, using movie name/genre/description/release_date, most I can do is ~40 rows per call
@@ -40,7 +41,7 @@ def callChatGpt(client, model, num_rows, columns, presence_penalty, temperature)
             },
             {
                 "role": "user",
-                "content": f"Generate '{num_rows}' rows for a '{filename}' table with the following columns: '{columns}'",
+                "content": f"Generate '{num_rows}' rows for a '{filename}' table with the following columns: '{columns}'. {context}",
             },
         ],
         response_format={"type": "json_object"},
