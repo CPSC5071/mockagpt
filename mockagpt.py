@@ -4,13 +4,14 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 import csv
 import math
+import time
 
 
 # constants
 filename = input("Please enter table name: ")
 model = "gpt-4-turbo-preview"  # gpt-4-turbo-preview currently points to gpt-4-0125-preview as of 2024-02-03, and it *probably* has a maximum output of 4,096 tokens
 num_rows = min(
-    int(input("Please enter the number of rows to be generated (max. 1000): ")), 1000
+    int(input("Please enter the number of rows to be generated (max. 3000): ")), 3000
 )
 columns = [
     item.strip()
@@ -21,7 +22,7 @@ columns = [
 context = input("Please provide additional instructions or context, if any: ")
 presence_penalty = 0.1
 temperature = 1.1
-max_rows_per_thread = 20  # from testing, using movie name/genre/description/release_date, most I can do is ~40 rows per call
+max_rows_per_thread = 25  # from testing, using movie name/genre/description/release_date, most I can do is ~40 rows per call
 
 
 def callChatGpt(client, model, num_rows, columns, presence_penalty, temperature):
@@ -36,7 +37,6 @@ def callChatGpt(client, model, num_rows, columns, presence_penalty, temperature)
                           All keys must be grouped under a single parent key called "response".
                           Be creative and really vary your responses, aim to be fictional and try to avoid real world references (parodies are okay). 
                           If the column is a category like Movie Genre, you can list multiple categories in the format of ['category 1', 'category 2', 'category 3', and so on] -- try to vary the amount of categories in the list.
-                          If the column is an ID, it must increase incrementally starting from 1 -- e.g. 1, 2, 3, 4.
                           If the column is a date, it should be in yyyy-mm-dd format. Year can range from 1950 to current year. Other column values must be appropriate for the year provided.""",
             },
             {
@@ -74,6 +74,7 @@ with ThreadPoolExecutor(max_workers=num_threads) as executor:
             temperature,
         )
         futures.append(future)
+        time.sleep(1) # wait 1 second before spinning up next thread, to avoid rate limit issues
 
     # collecting results
     for future in as_completed(futures):
