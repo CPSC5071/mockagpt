@@ -21,7 +21,7 @@ columns = [
 context = input("Please provide additional instructions or context, if any: ")
 presence_penalty = 0.1
 temperature = 1.1
-max_rows_per_thread = 10 # from testing, using movie name/genre/description/release_date, most I can do is ~40 rows per call
+max_rows_per_thread = 20  # from testing, using movie name/genre/description/release_date, most I can do is ~40 rows per call
 
 
 def callChatGpt(client, model, num_rows, columns, presence_penalty, temperature):
@@ -37,7 +37,7 @@ def callChatGpt(client, model, num_rows, columns, presence_penalty, temperature)
                           Be creative and really vary your responses, aim to be fictional and try to avoid real world references (parodies are okay). 
                           If the column is a category like Movie Genre, you can list multiple categories in the format of ['category 1', 'category 2', 'category 3', and so on] -- try to vary the amount of categories in the list.
                           If the column is an ID, it must increase incrementally starting from 1 -- e.g. 1, 2, 3, 4.
-                          If the column is a date, it should be in yyyy-mm-dd format. Year can range from 1950 to current year. Other column values must be appropriate for the year provided."""
+                          If the column is a date, it should be in yyyy-mm-dd format. Year can range from 1950 to current year. Other column values must be appropriate for the year provided.""",
             },
             {
                 "role": "user",
