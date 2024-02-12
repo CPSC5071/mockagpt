@@ -41,7 +41,7 @@ def callChatGpt(client, model, num_rows, columns, presence_penalty, temperature)
             },
             {
                 "role": "user",
-                "content": f"Generate '{num_rows}' rows for a '{filename}' table with the following columns: '{columns}'. {context}",
+                "content": f"Generate '{num_rows}' rows for a '{filename}' table with the following columns: '{columns}'. Additional context (if any): {context}",
             },
         ],
         response_format={"type": "json_object"},
