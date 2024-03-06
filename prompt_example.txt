@@ -1,0 +1,4 @@
+Please enter table name: History
+Please enter the number of rows to be generated (max. 3000): 3000
+Please enter a list of columns, separated by commas (e.g. Name, Description, Genre, Release Date): ID, Show ID, User ID, Rating, Review
+Please provide additional instructions or context, if any: ID should start from 3001 and increase incrementally, User ID should range between 1 to 500, rating is either 1, 2, 3, 4, or 5. Show ID should range between 5181 and 7180. These are ratings and reviews for tv shows and movies.
